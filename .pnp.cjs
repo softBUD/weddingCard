@@ -28,7 +28,6 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@craco/craco", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:7.1.0"],\
           ["@testing-library/dom", "npm:10.0.0"],\
-          ["@testing-library/jest-dom", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:6.4.2"],\
           ["@testing-library/react", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:13.5.0"],\
           ["@types/jest", "npm:29.5.12"],\
@@ -4777,37 +4776,6 @@ const RAW_RUNTIME_STATE =
           ["@jest/globals", null],\
           ["@types/bun", null],\
           ["@types/jest", null],\
-          ["@types/jest__globals", null],\
-          ["@types/vitest", null],\
-          ["aria-query", "npm:5.3.0"],\
-          ["chalk", "npm:3.0.0"],\
-          ["css.escape", "npm:1.5.1"],\
-          ["dom-accessibility-api", "npm:0.6.3"],\
-          ["jest", null],\
-          ["lodash", "npm:4.17.21"],\
-          ["redent", "npm:3.0.0"],\
-          ["vitest", null]\
-        ],\
-        "packagePeers": [\
-          "@jest/globals",\
-          "@types/bun",\
-          "@types/jest",\
-          "@types/jest__globals",\
-          "@types/vitest",\
-          "jest",\
-          "vitest"\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:6.4.2", {\
-        "packageLocation": "./.yarn/__virtual__/@testing-library-jest-dom-virtual-60dacd0e7f/4/AppData/Local/Yarn/Berry/cache/@testing-library-jest-dom-npm-6.4.2-cf74bb9089-10c0.zip/node_modules/@testing-library/jest-dom/",\
-        "packageDependencies": [\
-          ["@testing-library/jest-dom", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:6.4.2"],\
-          ["@adobe/css-tools", "npm:4.3.3"],\
-          ["@babel/runtime", "npm:7.24.4"],\
-          ["@jest/globals", null],\
-          ["@types/bun", null],\
-          ["@types/jest", "npm:29.5.12"],\
           ["@types/jest__globals", null],\
           ["@types/vitest", null],\
           ["aria-query", "npm:5.3.0"],\
@@ -12687,7 +12655,6 @@ const RAW_RUNTIME_STATE =
           ["invite_wedding", "workspace:."],\
           ["@craco/craco", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:7.1.0"],\
           ["@testing-library/dom", "npm:10.0.0"],\
-          ["@testing-library/jest-dom", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:6.4.2"],\
           ["@testing-library/react", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:f2f9bdf9c82545a117738fe113895f8240ecac368ffbc296185d2a4139bdff84c98015d7e25efb7220f7dc92856c9c3dbf4898a71cf6aedfa74f601b5a06845d#npm:13.5.0"],\
           ["@types/jest", "npm:29.5.12"],\
